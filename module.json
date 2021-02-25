@@ -1,0 +1,18 @@
+{
+  "name": "hgttg",
+  "title": "Heretic's Guide to the Galaxy",
+  "description": "An expansion of species options for use with the SW5e for Foundry system",
+  "version": "0.1.0",
+  "compatibleCoreVersion": "0.7.9",  
+  "minimumCoreVersion": "0.7.7",
+  "author": "Professor Bunbury",
+  "packs": [
+    {
+      "name": "heretics-guide-to-the-galaxy",
+      "label": "Heretic's Guide to the Galaxy",
+	  "system": "sw5e",
+      "path": "./packs/heretics-guide-to-the-galaxy.db",
+      "entity": "Item"
+    }
+  ]
+}
