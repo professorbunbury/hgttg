@@ -16,15 +16,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B. Minimum Core Version: 0.7.7
 
-2. SW5e for Foundry VTT (v.R1-A3): https://github.com/unrealkakeman89/sw5e
+2. SW5e for Foundry VTT (v.R1-A3 or later): https://github.com/unrealkakeman89/sw5e
 
-3. DnD5e for Foundry VTT (v1.2.4): https://foundryvtt.com/packages/dnd5e/
+3. DnD5e for Foundry VTT (v1.2.4 or later): https://foundryvtt.com/packages/dnd5e/
 
-4. Dynamic Active Effects (DAE) (v.0.2.46): https://foundryvtt.com/packages/dae/
+4. Dynamic Active Effects (DAE) (v.0.2.46 or later): https://foundryvtt.com/packages/dae/
 
-5. The Furnace (v.2.6.0): https://foundryvtt.com/packages/furnace/
+5. The Furnace (v.2.6.0 or later): https://foundryvtt.com/packages/furnace/
 
-6. libWrapper (v.1.3.5.0): https://foundryvtt.com/packages/lib-wrapper/
+6. libWrapper (v.1.3.5.0 or later): https://foundryvtt.com/packages/lib-wrapper/
 
 **DISCLAIMER:**
 
