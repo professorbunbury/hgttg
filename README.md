@@ -1,4 +1,4 @@
-**Module:** Heretic's Guide to the Galaxy (Foundry SW5e System Conversion)
+## Heretic's Guide to the Galaxy (Foundry SW5e System Conversion)
 
 **Source Author:** "Heretic"
 
