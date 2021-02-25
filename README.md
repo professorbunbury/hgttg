@@ -73,7 +73,7 @@ sheet.
 
 **CREDITS AND THANKS:**
 
-Artwork used in this Foundry VTT module appears on the Wookieepedia, the Star
+Artwork used in this Foundry VTT module appears on Wookieepedia, the Star
 Wars Wiki, available at <https://starwars.fandom.com/wiki/Main_Page>
 
 "Professor Bunbury" would like to extend profuse thanks to "Heresy,"
