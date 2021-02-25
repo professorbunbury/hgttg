@@ -12,9 +12,9 @@
 
 1. Foundry VTT:
 
-A. Compatible Core Version: 0.7.9
+ A. Compatible Core Version: 0.7.9
 
-B. Minimum Core Version: 0.7.7
+ B. Minimum Core Version: 0.7.7
 
 2. SW5e for Foundry VTT (v.R1-A3): https://github.com/unrealkakeman89/sw5e
 
