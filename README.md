@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/2cDG30A.png">
+
 ## Heretic's Guide to the Galaxy (Foundry SW5e System Conversion)
 
 **Source Author:** "Heresy"
