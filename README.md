@@ -1,4 +1,4 @@
-**Module:** Heretic's Guide to the Galaxy (Foundry SW5e System Conversion)
+## Heretic's Guide to the Galaxy (Foundry SW5e System Conversion)
 
 **Source Author:** "Heretic"
 
@@ -104,4 +104,4 @@ alphabetical order):
 "SuperVJ," "TheSirLancelot," "Whtwlf," "Woosti," and any relevant individuals
 accidentally omitted from this list.
 
-*"I have spoken."*
+***"I have spoken."***
