@@ -1,6 +1,8 @@
-**Module:** Heretic's Guide to the Galaxy (Foundry SW5e System Conversion)
+<img src="https://i.imgur.com/2cDG30A.png">
 
-**Source Author:** "Heretic"
+## Heretic's Guide to the Galaxy (Foundry SW5e System Conversion)
+
+**Source Author:** "Heresy"
 
 **Module Author:** "Professor Bunbury"
 
@@ -12,9 +14,9 @@
 
 1. Foundry VTT:
 
-A. Compatible Core Version: 0.7.9
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A. Compatible Core Version: 0.7.9
 
-B. Minimum Core Version: 0.7.7
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B. Minimum Core Version: 0.7.7
 
 2. SW5e for Foundry VTT (v.R1-A3): https://github.com/unrealkakeman89/sw5e
 
@@ -43,9 +45,8 @@ GNUv3 license.
 
 1. Unpack the contents of this zip archive.
 
-2. Place the folder named "hgttg" in the "Data\\modules" folder of your Foundry
-VTT data folder, e.g.,
-"C:\\Users\\[YOURUSERNAME]\\AppData\\Local\\FoundryVTT\\Data\\modules\\"
+2. Place the contents of the archive in a folder named "hgttg" in the "Data\\modules" folder of your Foundry
+VTT data folder, e.g., "C:\\Users\\[YOURUSERNAME]\\AppData\\Local\\FoundryVTT\\Data\\modules\\"
 
 **USAGE:**
 
@@ -73,7 +74,7 @@ sheet.
 
 **CREDITS AND THANKS:**
 
-Artwork used in this Foundry VTT module appears on the Wookieepedia, the Star
+Artwork used in this Foundry VTT module appears on Wookieepedia, the Star
 Wars Wiki, available at <https://starwars.fandom.com/wiki/Main_Page>
 
 "Professor Bunbury" would like to extend profuse thanks to "Heresy,"
@@ -104,4 +105,4 @@ alphabetical order):
 "SuperVJ," "TheSirLancelot," "Whtwlf," "Woosti," and any relevant individuals
 accidentally omitted from this list.
 
-*"I have spoken."*
+***"I have spoken."***
