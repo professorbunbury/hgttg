@@ -45,9 +45,8 @@ GNUv3 license.
 
 1. Unpack the contents of this zip archive.
 
-2. Place the folder named "hgttg" in the "Data\\modules" folder of your Foundry
-VTT data folder, e.g.,
-"C:\\Users\\[YOURUSERNAME]\\AppData\\Local\\FoundryVTT\\Data\\modules\\"
+2. Place the contents of the archive in a folder named "hgttg" in the "Data\\modules" folder of your Foundry
+VTT data folder, e.g., "C:\\Users\\[YOURUSERNAME]\\AppData\\Local\\FoundryVTT\\Data\\modules\\"
 
 **USAGE:**
 
