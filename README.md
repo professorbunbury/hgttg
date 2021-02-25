@@ -1,6 +1,6 @@
 ## Heretic's Guide to the Galaxy (Foundry SW5e System Conversion)
 
-**Source Author:** "Heretic"
+**Source Author:** "Heresy"
 
 **Module Author:** "Professor Bunbury"
 
