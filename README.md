@@ -12,7 +12,7 @@
 
 1. Foundry VTT:
 
- A. Compatible Core Version: 0.7.9
+&nbsp;&nbsp;A. Compatible Core Version: 0.7.9
 
  B. Minimum Core Version: 0.7.7
 
